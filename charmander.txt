@@ -1,4 +1,4 @@
 flamethrower
 ember
-fly
+scratch
 fire spin
